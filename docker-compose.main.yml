@@ -89,3 +89,5 @@ volumes:
   postgres_data_main:
   uploads_data:  # 👈 именованный volume для изображений
 # Update: 2025-10-14
+
+# Update: 2025-10-15
